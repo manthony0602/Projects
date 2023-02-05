@@ -6,6 +6,9 @@
 #include <string>
 using namespace std;
 
+// This is a text adventure game from Programming I
+// Program was made with nothing but if/else statements
+
 int main() {
 
     // LAB 5 - ADVENTURE GAME
