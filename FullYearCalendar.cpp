@@ -113,6 +113,7 @@ void printFullCalendar(int year) {
         // This part is just a visual of how "currentTracker" keeps track of where the
         // last day of each month left off, so that the program knows where to pick up
         // for the following month. 
+        /* This part is not necessary for the program to run */
         string dayLeftOff;
         if (currentTracker == 0) {
             dayLeftOff = "Saturday";
