@@ -11,7 +11,7 @@ using namespace std;
 
 // Computer Organization - Conversion Assignment 
 /* Please create a complete program to convert from numbers from decimal to binary and binary to decimal...up
-to 8 bits. The code should ask the user to enter a decimal value or binary value and then display the corresponding 
+to 8 bits. The code should ask the user to enter a decimal value or binary value and then display the corresponding
 number. Also ask the user if they would like to convert another value. Remember input validation.....//Comments...
 //Comments....//Comments */
 
