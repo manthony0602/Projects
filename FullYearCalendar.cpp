@@ -84,7 +84,9 @@ void printFullCalendar(int year) {
         correct spacing for the days in each month */
         int k;
 
-        for (k = 0; k < currentTracker; k++) {
+
+        for (k = 0; k < currentTracker; k++) 
+        {
             cout << "     "; // This line is creates the correct amount of spaces for
                              // the first week of each month
         }
